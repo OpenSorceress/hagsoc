@@ -40,4 +40,3 @@ if ($_POST['submit']) {
 
  header('location:http://www.hagiographysociety.org/?page_id=404');
 }
-?>

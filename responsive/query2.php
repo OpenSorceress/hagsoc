@@ -56,5 +56,5 @@ $q = mysql_query( "SELECT * FROM `wp_biblio_base` WHERE `app` = '0' ORDER BY `su
 $res = json_encode($darray);
 echo $res;
 
-?>
+
 

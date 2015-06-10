@@ -71,5 +71,5 @@ $result1 = $mysqli->query("SELECT * FROM `wp_usermeta` WHERE `meta_key` = 'last_
 $res = json_encode($darray);
 echo $res;
 
-?>
+
 
